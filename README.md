@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./public/assets/DevSecOps.png" alt="Project Banner" width="100%" />
 
   <h1>DevSecOps CI/CD Pipeline for Cloud-Native Application</h1>
 
